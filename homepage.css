@@ -1,0 +1,218 @@
+.navbar {
+    height: 120px;
+    background-color: black;
+    margin: -20px;
+}
+
+.navbar > .left-column img {
+    width: 250px;
+    margin: 35px;
+}
+
+.navbar > .center-column > .second-part > .link-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.navbar > .center-column > .second-part > .link-wrapper > .nav-link a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+    padding-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar > .center-column {
+    display: flex; 
+
+    align-items: center; 
+
+    justify-content: center; 
+}
+
+.navbar > .center-column > .second-part {
+    position: relative;
+    bottom: 90px;
+    right: 420px;
+    color: white;
+    font-size: 1.3em;
+}
+
+.main-part {
+    height: 830px;
+    background-color: #40444d;
+    margin: -20px;
+}
+
+.navbar > .center-column > .second-part > .title {
+    position: relative;
+    left: 13px;
+    color: gold;
+    padding-bottom: 5px;
+    font-size: 0.9em;
+}
+
+.navbar > .center-column > .spark {
+    position: relative;
+    bottom: 75px;
+    right: 390px;
+    color: #8b8884;
+}
+
+.navbar > .right-column {
+    position: relative;
+    left: 1500px;
+    display: flex;
+}
+
+.navbar > .right-column .button-1 {
+    color: white;
+    margin: 10px;
+    position: relative;
+    bottom: 160px;
+    right: 80px;
+}
+
+.navbar > .right-column > .search-thing {
+    color: #7b7e8b;
+    position: relative;
+    bottom: 135px;
+    right: 40px;
+    font-size: 2.5em;
+}
+
+.navbar > .right-column > .button-2 {
+    color: white;
+    position: relative;
+    bottom: 150px;
+    left: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.navbar > .right-column > .button-3 {
+    color: white;
+    position: relative;
+    bottom: 150px;
+    left: 40px;
+
+}
+
+.btn {
+    background-color: #36383f;
+    color: white;
+    padding: 20px;
+    font-size: 1.3em;
+    border-radius: 7px;
+}
+
+.picture img {
+    width: 850px;
+    display: flex;
+    margin-left: 1100px;
+    margin-top: -750px;
+
+}
+
+.main-part > .paragraph {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    padding-top: 70px;
+    width: 1300px;
+    font-size: 2.8em; 
+    font-family: 'Open Sans', sans-serif;
+}
+
+.green {
+    background-color: #4bce79;
+    color: black;
+    font-size: 2.6em;
+    padding: 20px;
+    border-radius: 8px;
+    border: #4bce79;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    font-size: 2.6em;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.buttons > .button-4 {
+    display: flex;
+    margin-left: 80px;
+    margin-top: -200px;
+}
+
+.buttons > .button-5 {
+    display: flex;
+    margin-left: 480px;
+    margin-top: -90px;
+}
+
+.bottom-part {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    font-size: 1.9em;
+}
+
+.bottom-part > .text0 {
+    position: absolute;
+    left: 0px;
+    color: white;
+    background-color: #36383f;
+    padding: 20px;
+    width: 330px;
+    border: solid #58585a;
+    padding-left: 120px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bottom-part > .text1 {
+    position: absolute;
+    left: 470px;
+    color: white;
+    background-color: #36383f;
+    padding: 20px;
+    width: 360px;
+    padding-left: 120px;
+    border: solid #58585a;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bottom-part > .text2 {
+    position: absolute;
+    left: 970px;
+    color: white;
+    background-color: #36383f;
+    padding: 20px;
+    width: 360px;
+    padding-left: 120px;
+    border: solid #58585a;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bottom-part > .text3 {
+    position: absolute;
+    left: 1470px;
+    color: white;
+    background-color: #36383f;
+    padding: 20px;
+    width: 340px;
+    padding-left: 115px;
+    border: solid #58585a;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.page-end {
+    background-color: #191a1d;
+    height: 90px;
+    margin: -10px;
+}
