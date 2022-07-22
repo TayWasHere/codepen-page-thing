@@ -216,6 +216,8 @@
 }
 
 .page-end {
+    position: absolute;
+    top: 1800px;
     background-color: #191a1d;
     height: 90px;
     margin: -10px;
