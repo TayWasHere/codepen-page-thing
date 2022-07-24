@@ -34,7 +34,7 @@
 
 .navbar > .center-column > .second-part {
     position: relative;
-    bottom: 90px;
+    bottom: -90px;
     right: 420px;
     color: white;
     font-size: 1.3em;
@@ -49,7 +49,7 @@
 .navbar > .center-column > .second-part > .title {
     position: relative;
     left: 13px;
-    top: 20px;
+    top: -20px;
     color: gold;
     padding-bottom: 5px;
     font-size: 0.9em;
@@ -222,5 +222,5 @@
     height: 90px;
     margin: -10px;
     position: relative;
-    top: 50px;
+    top: -50px;
 }
