@@ -49,6 +49,7 @@
 .navbar > .center-column > .second-part > .title {
     position: relative;
     left: 13px;
+    top: 20px;
     color: gold;
     padding-bottom: 5px;
     font-size: 0.9em;
@@ -71,14 +72,14 @@
     color: white;
     margin: 10px;
     position: relative;
-    bottom: 160px;
+    bottom: 200px;
     right: 80px;
 }
 
 .navbar > .right-column > .search-thing {
     color: #7b7e8b;
     position: relative;
-    bottom: 135px;
+    bottom: 200px;
     right: 40px;
     font-size: 2.5em;
 }
@@ -86,7 +87,7 @@
 .navbar > .right-column > .button-2 {
     color: white;
     position: relative;
-    bottom: 150px;
+    bottom: 200px;
     left: 10px;
     border-radius: 10px 10px 10px 10px;
 }
@@ -94,7 +95,7 @@
 .navbar > .right-column > .button-3 {
     color: white;
     position: relative;
-    bottom: 150px;
+    bottom: 200px;
     left: 40px;
 
 }
@@ -141,6 +142,7 @@
     font-size: 2.6em;
     padding: 20px;
     border-radius: 8px;
+    border: black;
 }
 
 .buttons > .button-4 {
@@ -219,4 +221,6 @@
     background-color: #191a1d;
     height: 90px;
     margin: -10px;
+    position: relative;
+    top: 50px;
 }
