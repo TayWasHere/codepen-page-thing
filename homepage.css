@@ -167,7 +167,7 @@
 
 .bottom-part > .text0 {
     position: absolute;
-    top: 700px;
+    top: 400px;
     left: 0px;
     color: white;
     background-color: #36383f;
@@ -180,7 +180,7 @@
 
 .bottom-part > .text1 {
     position: absolute;
-    top: 700px;
+    top: 400px;
     left: 470px;
     color: white;
     background-color: #36383f;
@@ -193,7 +193,7 @@
 
 .bottom-part > .text2 {
     position: absolute;
-    top: 700px;
+    top: 400px;
     left: 970px;
     color: white;
     background-color: #36383f;
@@ -206,7 +206,7 @@
 
 .bottom-part > .text3 {
     position: absolute;
-    top: 700px;
+    top: 400px;
     left: 1470px;
     color: white;
     background-color: #36383f;
@@ -222,5 +222,5 @@
     height: 90px;
     margin: -10px;
     position: relative;
-    top: -50px;
+    top: -20px;
 }
