@@ -106,6 +106,7 @@
     padding: 20px;
     font-size: 1.3em;
     border-radius: 7px;
+    border: solid #36383f;
 }
 
 .picture img {
@@ -167,7 +168,7 @@
 
 .bottom-part > .text0 {
     position: absolute;
-    top: 400px;
+    top: 200px;
     left: 0px;
     color: white;
     background-color: #36383f;
@@ -180,7 +181,7 @@
 
 .bottom-part > .text1 {
     position: absolute;
-    top: 400px;
+    top: 200px;
     left: 470px;
     color: white;
     background-color: #36383f;
@@ -193,7 +194,7 @@
 
 .bottom-part > .text2 {
     position: absolute;
-    top: 400px;
+    top: 200px;
     left: 970px;
     color: white;
     background-color: #36383f;
@@ -206,7 +207,7 @@
 
 .bottom-part > .text3 {
     position: absolute;
-    top: 400px;
+    top: 200px;
     left: 1470px;
     color: white;
     background-color: #36383f;
@@ -222,5 +223,5 @@
     height: 90px;
     margin: -10px;
     position: relative;
-    top: -20px;
+    top: -10px;
 }
