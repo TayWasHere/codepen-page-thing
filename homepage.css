@@ -72,14 +72,14 @@
     color: white;
     margin: 10px;
     position: relative;
-    bottom: 100px;
+    bottom: 300px;
     right: 80px;
 }
 
 .navbar > .right-column > .search-thing {
     color: #7b7e8b;
     position: relative;
-    bottom: 100px;
+    bottom: 300px;
     right: 40px;
     font-size: 2.5em;
 }
@@ -87,7 +87,7 @@
 .navbar > .right-column > .button-2 {
     color: white;
     position: relative;
-    bottom: 200px;
+    bottom: 300px;
     left: 10px;
     border-radius: 10px 10px 10px 10px;
 }
@@ -95,7 +95,7 @@
 .navbar > .right-column > .button-3 {
     color: white;
     position: relative;
-    bottom: 100px;
+    bottom: 300px;
     left: 40px;
 
 }
@@ -207,7 +207,7 @@
 
 .bottom-part > .text3 {
     position: absolute;
-    top: -50px;
+    top: -150px;
     left: 1470px;
     color: white;
     background-color: #36383f;
