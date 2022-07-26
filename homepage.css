@@ -72,14 +72,14 @@
     color: white;
     margin: 10px;
     position: relative;
-    bottom: 200px;
+    bottom: 100px;
     right: 80px;
 }
 
 .navbar > .right-column > .search-thing {
     color: #7b7e8b;
     position: relative;
-    bottom: 200px;
+    bottom: 100px;
     right: 40px;
     font-size: 2.5em;
 }
@@ -95,7 +95,7 @@
 .navbar > .right-column > .button-3 {
     color: white;
     position: relative;
-    bottom: 200px;
+    bottom: 100px;
     left: 40px;
 
 }
@@ -168,7 +168,7 @@
 
 .bottom-part > .text0 {
     position: absolute;
-    top: 50px;
+    top: -50px;
     left: 0px;
     color: white;
     background-color: #36383f;
@@ -181,7 +181,7 @@
 
 .bottom-part > .text1 {
     position: absolute;
-    top: 50px;
+    top: -50px;
     left: 470px;
     color: white;
     background-color: #36383f;
@@ -194,7 +194,7 @@
 
 .bottom-part > .text2 {
     position: absolute;
-    top: 50px;
+    top: -50px;
     left: 970px;
     color: white;
     background-color: #36383f;
@@ -207,7 +207,7 @@
 
 .bottom-part > .text3 {
     position: absolute;
-    top: 50px;
+    top: -50px;
     left: 1470px;
     color: white;
     background-color: #36383f;
@@ -223,5 +223,5 @@
     height: 90px;
     margin: -10px;
     position: relative;
-    top: -10px;
+    top: 10px;
 }
