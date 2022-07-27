@@ -57,7 +57,7 @@
 
 .navbar > .center-column > .spark {
     position: relative;
-    bottom: 75px;
+    bottom: 175px;
     right: 390px;
     color: #8b8884;
 }
@@ -168,7 +168,7 @@
 
 .bottom-part > .text0 {
     position: absolute;
-    top: -50px;
+    top: -90px;
     left: 0px;
     color: white;
     background-color: #36383f;
@@ -181,7 +181,7 @@
 
 .bottom-part > .text1 {
     position: absolute;
-    top: -50px;
+    top: -90px;
     left: 470px;
     color: white;
     background-color: #36383f;
@@ -194,7 +194,7 @@
 
 .bottom-part > .text2 {
     position: absolute;
-    top: -50px;
+    top: -90px;
     left: 970px;
     color: white;
     background-color: #36383f;
@@ -207,7 +207,7 @@
 
 .bottom-part > .text3 {
     position: absolute;
-    top: -150px;
+    top: -90px;
     left: 1470px;
     color: white;
     background-color: #36383f;
