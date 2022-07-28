@@ -149,13 +149,13 @@
 .buttons > .button-4 {
     display: flex;
     margin-left: 80px;
-    margin-top: -230px;
+    margin-top: -240px;
 }
 
 .buttons > .button-5 {
     display: flex;
     margin-left: 480px;
-    margin-top: -230px;
+    margin-top: -170px;
 }
 
 .bottom-part {
