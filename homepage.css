@@ -57,7 +57,7 @@
 
 .navbar > .center-column > .spark {
     position: relative;
-    bottom: 175px;
+    bottom: 205px;
     right: 390px;
     color: #8b8884;
 }
@@ -72,14 +72,14 @@
     color: white;
     margin: 10px;
     position: relative;
-    bottom: 300px;
+    bottom: 400px;
     right: 80px;
 }
 
 .navbar > .right-column > .search-thing {
     color: #7b7e8b;
     position: relative;
-    bottom: 300px;
+    bottom: 400px;
     right: 40px;
     font-size: 2.5em;
 }
@@ -87,7 +87,7 @@
 .navbar > .right-column > .button-2 {
     color: white;
     position: relative;
-    bottom: 300px;
+    bottom: 400px;
     left: 10px;
     border-radius: 10px 10px 10px 10px;
 }
@@ -95,7 +95,7 @@
 .navbar > .right-column > .button-3 {
     color: white;
     position: relative;
-    bottom: 300px;
+    bottom: 400px;
     left: 40px;
 
 }
