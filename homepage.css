@@ -168,7 +168,7 @@
 
 .bottom-part > .text0 {
     position: absolute;
-    top: -70px;
+    top: -85px;
     left: 0px;
     color: white;
     background-color: #36383f;
@@ -223,5 +223,5 @@
     height: 90px;
     margin: -10px;
     position: relative;
-    top: 147px;
+    top: 140px;
 }
