@@ -34,7 +34,7 @@
 
 .navbar > .center-column > .second-part {
     position: relative;
-    bottom: 265px;
+    bottom: 275px;
     right: 420px;
     color: white;
     font-size: 1.3em;
@@ -57,7 +57,7 @@
 
 .navbar > .center-column > .spark {
     position: relative;
-    bottom: 245px;
+    bottom: 255px;
     right: 390px;
     color: #8b8884;
 }
@@ -79,7 +79,7 @@
 .navbar > .right-column > .search-thing {
     color: #7b7e8b;
     position: relative;
-    bottom: 355px;
+    bottom: 352px;
     right: 40px;
     font-size: 2.5em;
 }
@@ -168,7 +168,7 @@
 
 .bottom-part > .text0 {
     position: absolute;
-    top: 25px;
+    top: 20px;
     left: 0px;
     color: white;
     background-color: #36383f;
@@ -181,7 +181,7 @@
 
 .bottom-part > .text1 {
     position: absolute;
-    top: 25px;
+    top: 20px;
     left: 470px;
     color: white;
     background-color: #36383f;
@@ -194,7 +194,7 @@
 
 .bottom-part > .text2 {
     position: absolute;
-    top: 25px;
+    top: 20px;
     left: 970px;
     color: white;
     background-color: #36383f;
@@ -207,7 +207,7 @@
 
 .bottom-part > .text3 {
     position: absolute;
-    top: 25px;
+    top: 20px;
     left: 1470px;
     color: white;
     background-color: #36383f;
@@ -223,5 +223,5 @@
     height: 90px;
     margin: -10px;
     position: relative;
-    top: 130px;
+    top: 150px;
 }
