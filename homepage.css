@@ -49,7 +49,7 @@
 .navbar > .center-column > .second-part > .title {
     position: relative;
     left: 13px;
-    top: -20px;
+    top: -30px;
     color: gold;
     padding-bottom: 5px;
     font-size: 0.9em;
@@ -57,7 +57,7 @@
 
 .navbar > .center-column > .spark {
     position: relative;
-    bottom: 235px;
+    bottom: 245px;
     right: 390px;
     color: #8b8884;
 }
@@ -155,7 +155,7 @@
 .buttons > .button-5 {
     display: flex;
     margin-left: 480px;
-    margin-top: -150px;
+    margin-top: -170px;
 }
 
 .bottom-part {
@@ -168,7 +168,7 @@
 
 .bottom-part > .text0 {
     position: absolute;
-    top: 45px;
+    top: 25px;
     left: 0px;
     color: white;
     background-color: #36383f;
@@ -181,7 +181,7 @@
 
 .bottom-part > .text1 {
     position: absolute;
-    top: 45px;
+    top: 25px;
     left: 470px;
     color: white;
     background-color: #36383f;
@@ -194,7 +194,7 @@
 
 .bottom-part > .text2 {
     position: absolute;
-    top: 45px;
+    top: 25px;
     left: 970px;
     color: white;
     background-color: #36383f;
@@ -207,7 +207,7 @@
 
 .bottom-part > .text3 {
     position: absolute;
-    top: 45px;
+    top: 25px;
     left: 1470px;
     color: white;
     background-color: #36383f;
