@@ -155,7 +155,7 @@
 .buttons > .button-5 {
     display: flex;
     margin-left: 480px;
-    margin-top: -190px;
+    margin-top: -100px;
 }
 
 .bottom-part {
@@ -181,7 +181,7 @@
 
 .bottom-part > .text1 {
     position: absolute;
-    top: 20px;
+    top: 10px;
     left: 470px;
     color: white;
     background-color: #36383f;
@@ -194,7 +194,7 @@
 
 .bottom-part > .text2 {
     position: absolute;
-    top: 20px;
+    top: 10px;
     left: 970px;
     color: white;
     background-color: #36383f;
@@ -207,7 +207,7 @@
 
 .bottom-part > .text3 {
     position: absolute;
-    top: 20px;
+    top: 10px;
     left: 1470px;
     color: white;
     background-color: #36383f;
@@ -223,5 +223,5 @@
     height: 90px;
     margin: -10px;
     position: relative;
-    top: 150px;
+    top: 160px;
 }
