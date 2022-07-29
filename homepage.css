@@ -72,7 +72,7 @@
     color: white;
     margin: 10px;
     position: relative;
-    bottom: 365px;
+    bottom: 369px;
     right: 80px;
 }
 
@@ -112,7 +112,7 @@
 .picture img {
     width: 850px;
     display: flex;
-    margin-left: 1100px;
+    margin-left: 1150px;
     margin-top: -750px;
 
 }
@@ -155,7 +155,7 @@
 .buttons > .button-5 {
     display: flex;
     margin-left: 480px;
-    margin-top: -170px;
+    margin-top: -150px;
 }
 
 .bottom-part {
@@ -168,7 +168,7 @@
 
 .bottom-part > .text0 {
     position: absolute;
-    top: -85px;
+    top: -95px;
     left: 0px;
     color: white;
     background-color: #36383f;
@@ -181,7 +181,7 @@
 
 .bottom-part > .text1 {
     position: absolute;
-    top: -85px;
+    top: -95px;
     left: 470px;
     color: white;
     background-color: #36383f;
@@ -194,7 +194,7 @@
 
 .bottom-part > .text2 {
     position: absolute;
-    top: -85px;
+    top: -95px;
     left: 970px;
     color: white;
     background-color: #36383f;
@@ -207,7 +207,7 @@
 
 .bottom-part > .text3 {
     position: absolute;
-    top: -85px;
+    top: -95px;
     left: 1470px;
     color: white;
     background-color: #36383f;
@@ -223,5 +223,5 @@
     height: 90px;
     margin: -10px;
     position: relative;
-    top: 10px;
+    top: 20px;
 }
