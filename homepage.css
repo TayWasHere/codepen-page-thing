@@ -34,7 +34,7 @@
 
 .navbar > .center-column > .second-part {
     position: relative;
-    bottom: 150px;
+    bottom: 250px;
     right: 420px;
     color: white;
     font-size: 1.3em;
@@ -168,7 +168,7 @@
 
 .bottom-part > .text0 {
     position: absolute;
-    top: 35px;
+    top: 55px;
     left: 0px;
     color: white;
     background-color: #36383f;
@@ -181,7 +181,7 @@
 
 .bottom-part > .text1 {
     position: absolute;
-    top: 35px;
+    top: 55px;
     left: 470px;
     color: white;
     background-color: #36383f;
@@ -194,7 +194,7 @@
 
 .bottom-part > .text2 {
     position: absolute;
-    top: 35px;
+    top: 55px;
     left: 970px;
     color: white;
     background-color: #36383f;
@@ -207,7 +207,7 @@
 
 .bottom-part > .text3 {
     position: absolute;
-    top: 35px;
+    top: 55px;
     left: 1470px;
     color: white;
     background-color: #36383f;
@@ -223,5 +223,5 @@
     height: 90px;
     margin: -10px;
     position: relative;
-    top: 80px;
+    top: 120px;
 }
